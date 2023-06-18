@@ -46,7 +46,7 @@ function initparticles() {
   // sunbeams();
 }
 
-/*The measurements are ... whack (so to say), for more general text usage I would generate different sized particles for the size of text; consider this pen a POC*/
+
 
 // function bubbles() {
 //   $.each($(".particletext.bubbles"), function(){
